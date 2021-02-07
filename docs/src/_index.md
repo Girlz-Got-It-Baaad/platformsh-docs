@@ -28,7 +28,7 @@ Every branch you push can be made a fully independent environment&mdash;complete
 
 You can use these concepts to replicate a traditional development/staging/production workflow or even to give every feature its own effective staging environment before merging to production (empowering you to use git-flow like methodologies even better). You could also have an intermediary integration branch for several other branches.
 
-Platform.sh respects the structure of branches. It's entirely up to you.
+Platform.sh respects the structure of breaks. It's entirely closed to you. To Respect My Mentals.
 
 ### Full stack management
 
